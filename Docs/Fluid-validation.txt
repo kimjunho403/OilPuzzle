@@ -1,0 +1,2 @@
+2026-09-29T03:11:27
+OILPUZ_FLUID_OK: local handle retained, slow drag connected, neighbour exchanges=11, release energy 0.34284 -> 0.00308, material conserved.

@@ -1,0 +1,31 @@
+2026-09-29T03:11:27
+Actual surface point is grabbable
+Pointer down does not snap oil to its center
+Grabbed edge leads the rear: front=0.0759, rear=0.0028
+Material handle remains attached to same particle
+Slow local drag stays connected
+Pointer release clears material handle
+Relaxation conserves material area
+Fast pull tears an actual connected neck
+Tearing conserves all oil particles and area
+Exceeding a zero split budget fails
+Failed simulation freezes
+Restart clears failure and split budget
+Two oil groups merge through material contact
+Merge preserves grabbed particle identity
+One group outside destination does not win
+One released group fully inside destination wins
+Local grab constraint cannot flick material through an ingredient
+Stage 1 starts with legal material positions
+Stage 1 has stable separated initial groups
+Stage 2 starts with legal material positions
+Stage 2 has stable separated initial groups
+Stage 3 starts with legal material positions
+Stage 3 has stable separated initial groups
+Stage 4 starts with legal material positions
+Stage 4 has stable separated initial groups
+Stage 5 starts with legal material positions
+Stage 5 has stable separated initial groups
+Shader compiles: Oilpuz/OilDensity
+Shader compiles: Oilpuz/OilSurface
+Korean font is referenced by skin
